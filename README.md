@@ -4,7 +4,7 @@
 </a>
 
 <a target="_blank" href="mailto:miguelaras@hotmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hotmail.svg" />
+  <img align="left" alt="hotmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 
