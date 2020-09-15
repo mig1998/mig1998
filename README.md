@@ -6,13 +6,14 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-
+<br>
 
 <a  target="_blank" href="https://mig1998.github.io/">Site</a>
 <a target="_blank" href="https://mig1998.github.io/">
   <img align="left" alt="Site" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/sitepoint.svg" />
 </a>
 
+<br>
 
 
 <a  target="_blank"  href="mailto:miguelaras@hotmail.com">Email</a>
