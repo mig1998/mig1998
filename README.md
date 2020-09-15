@@ -1,25 +1,10 @@
 
 ### Hi there 👋
-<a target="_blank" href="https://www.linkedin.com/in/miguel-araujo-462303177/">Linkedin</a>
-
-<a target="_blank" href="https://www.linkedin.com/in/miguel-araujo-462303177/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<hr>
-
-<a  target="_blank" href="https://mig1998.github.io/">Site</a>
-<a target="_blank" href="https://mig1998.github.io/">
-  <img align="left" alt="Site" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/sitepoint.svg" />
-</a>
-
-<hr>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mig1998)](https://github.com/mig1998)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguel-araujo-462303177/)](https://www.linkedin.com/in/miguel-araujo-462303177/)
+[webSite](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://mig1998.github.io/)](https://mig1998.github.io/)
 
 
-<a  target="_blank"  href="mailto:miguelaras@hotmail.com">Email</a>
-<a target="_blank" href="mailto:miguelaras@hotmail.com">
-  <img align="left" alt="hotmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 
 
 <!--
