@@ -5,9 +5,13 @@
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+<hr>
+
 <a target="_blank" href="https://mig1998.github.io/">
   <img align="left" alt="Site" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/sitepoint.svg" />
 </a>
+
+<hr>
 
 <a target="_blank" href="mailto:miguelaras@hotmail.com">
   <img align="left" alt="hotmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
