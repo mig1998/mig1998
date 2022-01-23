@@ -16,5 +16,10 @@
 <p>objective, improve my skills of development and learning so much more.</p>
 </b>
 
-![mig1998 Status](https://github-readme-stats.vercel.app/api?username=mig1998&show_icons=true&theme=cobalt)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mig1998&layout=compact&theme=cobalt)](https://github.com/mig1998/github-readme-stats)
+
+<a href="https://github.com/mig1998">
+  <img align="center" width="400" height="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mig1998&layout=compact&theme=cobalt" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" width="490" height="500" src="https://github-readme-stats.vercel.app/api?username=mig1998&show_icons=true&theme=cobalt" />
+</a>
