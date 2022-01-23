@@ -16,4 +16,5 @@
 <p>objective, improve my skills of development and learning so much more.</p>
 </b>
 
-![mig1998 Status](https://github-readme-stats.vercel.app/api?username=mig1998&show_icons=true)
+![mig1998 Status](https://github-readme-stats.vercel.app/api?username=mig1998&show_icons=true&theme=cobalt)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mig1998&layout=compact)](https://github.com/mig1998/github-readme-stats)
