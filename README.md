@@ -20,5 +20,5 @@
   <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mig1998&layout=compact&theme=cobalt" />
 </a>
 <a href="https://github.com/mig1998">
-  <img align="center" width="490"  src="https://github-readme-stats.vercel.app/api?username=mig1998&show_icons=true&theme=cobalt" />
+  <img align="center" width="440"  src="https://github-readme-stats.vercel.app/api?username=mig1998&show_icons=true&theme=cobalt" />
 </a>
