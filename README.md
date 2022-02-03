@@ -23,4 +23,3 @@
   <img align="center" width="440"  src="https://github-readme-stats.vercel.app/api?username=mig1998&show_icons=true&theme=cobalt" />
 </a>
 
-![](./profile-3d-contrib/profile-south-season-animate.svg)
