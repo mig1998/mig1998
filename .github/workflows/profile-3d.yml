@@ -1,0 +1,24 @@
+nome : GitHub-Profile-3D-Contrib
+
+on :
+   schedule : # 03:00 JST == 18:00 UTC 
+    - cron : " 0 18 * * * "
+   workflow_dispatch :
+
+jobs :
+   build :
+     run-on : ubuntu-latest 
+    name : generate-github-profile-3d-contrib 
+    steps :
+      - usa : actions/checkout@v2 
+      - usa : yoshi389111/github-profile-3d-contrib@0.5.0 
+        env :
+           GITHUB_TOKEN : ${{ secrets.GITHUB_TOKEN }} 
+          USERNAME : ${{ github.repository_owner }} 
+      - name : Commit & Empurre 
+        a execução : | 
+          git config user.name mig1998
+          git config user.email mig_1998@outlook.com 
+          git add -A . 
+          git commit -m "worth" 
+          git push
