@@ -20,9 +20,12 @@
 
 <hr>
 <h1>Contato</h1>
+<a href="https://www.linkedin.com/in/miguelaraujo98/">
+<img align="center" width=100 height=100 src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original-wordmark.svg"/>  
+</a>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mig1998)](https://github.com/mig1998)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguelaraujo98//)](https://www.linkedin.com/in/miguelaraujo98/)
+</br>
+
 
 <a href="https://github.com/mig1998">
   <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mig1998&layout=compact&theme=cobalt" />
