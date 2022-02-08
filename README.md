@@ -3,23 +3,21 @@
 <h1>Hi there 👋</h1>
 
 <b>
-<p>Bem vindo ao meu portfolio!</p>
 <p>welcome to my portfolio!</p>
-
-<p>objetivo, melhorar habilidades de desenvolvimento e aprender mais.</p>
 <p>objective, improve my skills of development and learning so much more.</p>
   </br>
-<p>Acesse meu Site</p>
+<p>visit my Portfolio</p>
   </b>
 
 
-<a target="_blank" href="https://mig1998.github.io/">Meu Portfolio</a>
 <a target="_blank" href="https://mig1998.github.io/">
   <img align="left" alt="Site" width="22px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original.svg" />
+  
+<h3><a target="_blank" href="https://mig1998.github.io/">Meu Portfolio</a></h3>
 </a>
 
 <hr>
-<h1>Contato</h1>
+<h1>Contact</h1>
 <a href="https://www.linkedin.com/in/miguelaraujo98/">
 <img align="center" width=100 height=100 src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original-wordmark.svg"/>  
 </a>
