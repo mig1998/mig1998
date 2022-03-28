@@ -4,7 +4,7 @@
 
 <b>
 <p>welcome to my portfolio!</p>
-<p>objective, improve my skills of development and learning so much more.</p>
+<p>objective, improve my development skill's and learning so much more.</p>
   </br>
 <p>visit my Portfolio</p>
   </b>
