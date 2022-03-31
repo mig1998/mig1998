@@ -13,7 +13,7 @@
 <a target="_blank" href="https://mig1998.github.io/">
   <img align="left" alt="Site" width="22px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original.svg" />
   
-<h3><a target="_blank" href="https://mig1998.github.io/">My Portfolio</a></h3>
+<h3><a target="_blank" href="https://mig1998.github.io/">My Portfolio\WebSite</a></h3>
 </a>
 
 <hr>
@@ -50,4 +50,11 @@
 
    <img height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/photoshop/photoshop-plain.svg" />
 
+ </p>
+
+<br>
+
+<p align=center><strong>Total de visitantes desde 31/03/22:</strong></p>
+<p align="center">
+  <img align="center" src="https://profile-counter.glitch.me/mig1998/count.svg" />
  </p>
