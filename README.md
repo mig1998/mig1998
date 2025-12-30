@@ -99,20 +99,6 @@ eficientes e escaláveis.
 
 <br><br>
 
-<!-- ===================== GITHUB STATS ===================== -->
-
-<a href="https://github.com/mig1998">
-  <img align="center" width="350"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mig1998&layout=compact&theme=cobalt" />
-</a>
-
-<a href="https://github.com/mig1998">
-  <img align="center" width="440"
-       src="https://github-readme-stats.vercel.app/api?username=mig1998&show_icons=true&theme=cobalt" />
-</a>
-
-<hr>
-
 <!-- ===================== TECHNOLOGIES ===================== -->
 
 <h2 align="center">🛠 Technologies | Tecnologias</h2>
@@ -136,10 +122,3 @@ eficientes e escaláveis.
 
 <!-- ===================== VISITORS ===================== -->
 
-<p align="center">
-  <strong>Total de visitantes desde 31/03/2022:</strong>
-</p>
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mig1998/count.svg" />
-</p>
