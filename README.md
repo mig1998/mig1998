@@ -90,7 +90,7 @@ eficientes e escaláveis.
 
 <!-- ===================== CONTACT ===================== -->
 
-<h1>📫 Contact | Contato</h1>
+<h1>📫 Rede Sociais | Contato</h1>
 
 <a href="https://www.linkedin.com/in/miguelaraujo98/" target="_blank">
   <img align="center" width="100" height="100"
