@@ -88,14 +88,27 @@ eficientes e escaláveis.
 
 <hr>
 
+
+
+
 <!-- ===================== CONTACT ===================== -->
 
-<h1>📫 Rede Sociais | Contato</h1>
+<h1 align="center">📫 Redes Sociais | Social Links</h1>
 
-<a href="https://www.linkedin.com/in/miguelaraujo98/" target="_blank">
-  <img align="center" width="100" height="100"
-       src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original-wordmark.svg"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/miguelaraujo98/" target="_blank">
+    <img title="LinkedIn"
+         width="50"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+</p>
+  &nbsp;&nbsp;&nbsp;
+  <p align="center">
+<a href="https://github.com/mig1998" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-mig1998-181717?style=flat&logo=github&logoColor=white"/>
 </a>
+
+</p>
 
 <br><br>
 
@@ -129,4 +142,13 @@ eficientes e escaláveis.
   <img title="Python" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img title="Git" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img title="GitHub" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</p>
+
+
+<hr>
+<p align="center">
+  <strong>Profile views | Visitas no perfil</strong>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mig1998&style=flat-square&color=blue" />
 </p>
