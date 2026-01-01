@@ -9,7 +9,7 @@ and building scalable and real-world applications.
 </p>
 
 <h3>
-🌐 <a target="_blank" href="https://mig1998.github.io/">My Portfolio / Website</a>
+<!--🌐 <a target="_blank" href="https://mig1998.github.io/">My Portfolio / Website</a>-->
 </h3>
 
 <hr>
@@ -54,7 +54,7 @@ atuando com aplicações web, backend e mobile.
 </p>
 
 <h3>
-🌐 <a target="_blank" href="https://mig1998.github.io/">Meu Portfólio / Website</a>
+🌐<!-- <a target="_blank" href="https://mig1998.github.io/">Meu Portfólio / Website</a>-->
 </h3>
 
 <hr>
